@@ -42,8 +42,7 @@ btn.addEventListener('click' , ()=>{
     <h4>Humadity</h4>
     <p>${humidity}</p>
 
-    <h4>Humadity</h4>
-    <p>${humidity}</p>
+
   </div>
 
   <div class="detail-box">
